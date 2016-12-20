@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="fastlane">
+  <testsuite name="run">
+    
+      
+      <testcase name="0: update_fastlane" time="22.349762">
+        
+      </testcase>
+    
+      
+      <testcase name="1: default_platform" time="0.000349">
+        
+      </testcase>
+    
+      
+      <testcase name="2: cocoapods" time="26.643192">
+        
+      </testcase>
+    
+      
+      <testcase name="3: Switch to ios build lane" time="0.000388">
+        
+      </testcase>
+    
+      
+      <testcase name="4: sigh" time="5.728454">
+        
+      </testcase>
+    
+      
+      <testcase name="5: gym" time="219.0236">
+        
+      </testcase>
+    
+      
+      <testcase name="6: crashlytics" time="22.28233">
+        
+      </testcase>
+    
+      
+      <testcase name="7: pilot" time="137.740768">
+        
+      </testcase>
+    
+      
+      <testcase name="8: commit_version_bump" time="0.724004">
+        
+      </testcase>
+    
+      
+      <testcase name="9: push_to_git_remote" time="1.282094">
+        
+      </testcase>
+    
+      
+      <testcase name="10: say" time="3.408599">
+        
+      </testcase>
+    
+      
+      <testcase name="11: clean_build_artifacts" time="0.001392">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
